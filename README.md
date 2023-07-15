@@ -40,7 +40,7 @@
 
 ### ⚡ GitHub Stats
   
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-missey&count_private=true&rank_icon=github&hide=issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Alex's GitHub stats](https://github-readme-stats-two-hazel-73.vercel.app/api?username=alex-missey&count_private=true&rank_icon=github&hide=issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 📫 How to reach me: ...
