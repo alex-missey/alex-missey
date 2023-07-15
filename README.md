@@ -1,5 +1,9 @@
 # Alex Missey 
 ### **JavaScript Developer** <img src="https://i.ibb.co/pjtzq2S/udacity-logo-modified-2.png" width="80" align="right"/><p> 
+<!-- Use this for line (2) above for JS logo instead of Udacity
+### **JavaScript Developer** <img src="https://i.ibb.co/LPvydHw/png-transparent-yellow-circle-number-javascript-text-area-symbol-sign-removebg-preview.png" width="158" align="right"/><p> 
+-->
+
 ##### _**Private Code Available for Review to Employers Upon Request**_
 ---
 
@@ -61,7 +65,7 @@ Unless otherwise stated in the LISENCE of one of my individual repositories, all
 
 
 <!--
-**JKelly423/JKelly423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alex-missey/alex-missey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
