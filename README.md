@@ -48,15 +48,14 @@
 
 
 ### 📫 How to reach me: ...
-- #### Email: Placeholder@email.com
-- #### [LinkedIn](https://www.linkedin.com/in/username/)
+- #### Email: missey.alexander@gmail.com
 
 <br>
 
 <details>
 <summary>©️ COPYRIGHT DISCLAIMER</summary>
   
-Unless otherwise stated in the LISENCE of one of my individual repositories, all code featured on my profile is NOT LISENCED. This means that absolutely NO UNAUTHORIZED USE OR DISTRBUTION PERMITTED. I am the sole owner of any and all code featured on my Github profile. Any violators will be prosecuted.
+Unless otherwise stated in the LICENCE of one of my individual repositories, all code featured on my profile is NOT LICENCED. This means that absolutely NO UNAUTHORIZED USE OR DISTRIBUTION IS PERMITTED. I am the sole owner of any and all code featured on my Github profile. Any violators will be prosecuted.
 
 </details>
 
